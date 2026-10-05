@@ -1,0 +1,6 @@
+{
+  "name": "UP 14 Restaurant & Food Point",
+  "description": "Muradnagar's premier destination for Tandoori Momos, Malai Chaap, and sizzling street delicacies. Open late night till 12:30 AM in Radhey Shyam Vihar, Muradnagar, Ghaziabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
